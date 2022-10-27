@@ -1,0 +1,3 @@
+2022-10-09 17:34:26,248 INFO random_gen ran with (1, 8, (3, 6, 6)) and {}
+2022-10-09 17:35:34,041 INFO random_gen ran with (1, 10) and {'shape': (3, 5, 5)}
+2022-10-09 17:37:01,032 INFO random_gen ran with (1, 10) and {'shape': (5, 5, 3)}
