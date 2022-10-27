@@ -1,1 +1,1 @@
-# pytorch-follow
+Pytorch practise
